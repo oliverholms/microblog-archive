@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2024/02/20/i-dont-have.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;I don&rsquo;t have a philosophy. I have a camera. I look into the camera and take pictures. My photographs are the tiniest part of what I see that could be photographed. They are fragments of endless possibilities.&rdquo;\n—Saul Leiter</p>\n</blockquote>\n",
+				"content_text": "> \"I don't have a philosophy. I have a camera. I look into the camera and take pictures. My photographs are the tiniest part of what I see that could be photographed. They are fragments of endless possibilities.\"\n> —Saul Leiter\n",
+				"date_published": "2024-02-20T22:31:51+00:00",
+				"url": "https://blog.oliverholms.com/2024/02/20/i-dont-have.html"
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2024/01/06/in-art-and.html",
 				
-				"content_html": "<blockquote>\n<p>In art and dream may you proceed with abandon. In life may you proceed with balance and stealth\n—Patti Smith</p>\n</blockquote>\n",
-				"content_text": "> In art and dream may you proceed with abandon. In life may you proceed with balance and stealth\n> —Patti Smith\n",
+				"content_html": "<blockquote>\n<p>In art and dream may you proceed with abandon. In life may you proceed with balance and stealth. <br>\n—Patti Smith</p>\n</blockquote>\n",
+				"content_text": "> In art and dream may you proceed with abandon. In life may you proceed with balance and stealth.    \n> —Patti Smith\n",
 				"date_published": "2024-01-06T23:30:31+00:00",
 				"url": "https://blog.oliverholms.com/2024/01/06/in-art-and.html"
 			},
