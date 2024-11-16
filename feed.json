@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2024/11/16/233058.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/oliverholms-1116-m10p2725.jpg\" width=\"400\" height=\"600\" alt=\"Full length shot of girl wearing blue jeans and a white top standing on a tube platform with her hair blowing in the wind created by the tube train rushing into the station. The tube train is blurred from the movement. \">\n",
+				"date_published": "2024-11-16T23:30:58+00:00",
+				"url": "https://blog.oliverholms.com/2024/11/16/233058.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://oliverholms.micro.blog/2024/11/02/zen-didion-interviewer.html",
+				"title": "Zen Didion",
+				"content_html": "<p><strong>INTERVIEWER:</strong> There&rsquo;s a certain aesthetic to the way you live. You once talked about using good silver every day.</p>\n<p><strong>DIDION:</strong> Well, every day is all there is.</p>\n",
+				"content_text": "**INTERVIEWER:** There's a certain aesthetic to the way you live. You once talked about using good silver every day.    \n    \n\n**DIDION:** Well, every day is all there is.\n",
+				"date_published": "2024-11-02T22:59:15+00:00",
+				"url": "https://blog.oliverholms.com/2024/11/02/zen-didion-interviewer.html"
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2024/10/30/photography-for-me.html",
 				
 				"content_html": "<blockquote>\n<p>Photography, for me, is a spontaneous impulse, the result of a constant awareness, which captures both a moment and eternity. Drawing, by contrast, expands on what our consciousness has taken from the moment. Photography is an action, drawing is a meditation. <br>\n—Henri Cartier Bresson</p>\n</blockquote>\n",
@@ -35,7 +52,7 @@
 				"id": "http://oliverholms.micro.blog/2024/09/28/224538.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/oliverholms-m10p1992.jpg\" width=\"400\" height=\"600\" alt=\"View through a window of a blonde woman washing the glass on the other side. The smeared soap suds and the green cloth in her hand are obscuring her face. She is standing on a balcony and residential buildings are visible in the background\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/105040/2024/oliverholms-m10p1992.jpg\" width=\"400\" height=\"600\" alt=\"View through a window of a blonde woman washing the glass on the other side. The smeared soap suds and the green cloth in her hand are obscuring her face. She is standing on a balcony and residential buildings are visible in the background\">\n",
 				"date_published": "2024-09-28T21:45:38+00:00",
 				"url": "https://blog.oliverholms.com/2024/09/28/224538.html",
 				"tags": ["Photography"]
