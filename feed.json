@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2024/12/05/beautiful-work-by.html",
+				
+				"content_html": "<p>Beautiful work by <a href=\"https://www.instagram.com/morimotostudio/\">Keita Morimoto 森本啓太 </a>, via <a href=\"https://blog.ayjay.org/\">Alan Jacobs</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beautiful work by [Keita Morimoto 森本啓太 ](https://www.instagram.com/morimotostudio/), via [Alan Jacobs](https://blog.ayjay.org/).\n\n<img src=\"uploads/2024/pasted-image-20241204202658.png\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-05T00:08:18+00:00",
+				"url": "https://blog.oliverholms.com/2024/12/05/beautiful-work-by.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2024/11/25/photography-is-the.html",
 				
 				"content_html": "<blockquote>\n<p>“Photography is the only language that can be understood anywhere in the world.” \n—Bruno Barbey</p>\n</blockquote>\n",
