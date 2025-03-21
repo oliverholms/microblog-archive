@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2025/03/21/232927.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/oliverholms-l1000868.jpg\" width=\"600\" height=\"399\" alt=\"Looking down an overgrown river. The banks are covered with vegetation and trees overhang the river obscuring the sky. The water is a muddy green. There is a pool of light on the water in the centre of frame where the light is breaking through the canopy\">\n",
+				"date_published": "2025-03-21T23:29:27+00:00",
+				"url": "https://blog.oliverholms.com/2025/03/21/232927.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://oliverholms.micro.blog/2025/03/19/230508.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\r\n\n\n<img src=\"uploads/2025/oliverholms-griii-lisboa-r015999.jpg\" width=\"400\" height=\"600\" alt=\"looking up to the sky through the stones arches of a ruined church in Lisbon. The structure in the foreground is shrouded in scaffolding covered with white netting. Some warm coloured sunlight is hitting the nearer arch and the sky is cloudy. \">\n",
+				"date_published": "2025-03-19T23:05:08+00:00",
+				"url": "https://blog.oliverholms.com/2025/03/19/230508.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2025/03/17/why-not-do-it-now.html",
 				
-				"content_html": "<blockquote>\n<p>Why not do it now? <br>\n— Tyler Cowen</p>\n</blockquote>\n",
-				"content_text": "> Why not do it now?    \r\n> — Tyler Cowen\n",
+				"content_html": "<blockquote>\n<p>Why not do it now? <br>\n— <a href=\"https://marginalrevolution.com/\">Tyler Cowen</a></p>\n</blockquote>\n",
+				"content_text": "> Why not do it now?    \n> — [Tyler Cowen](https://marginalrevolution.com/)\n",
 				"date_published": "2025-03-17T23:01:12+00:00",
 				"url": "https://blog.oliverholms.com/2025/03/17/why-not-do-it-now.html"
 			},
@@ -36,7 +54,7 @@
 				"id": "http://oliverholms.micro.blog/2025/03/11/221436.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/3d386328fc.jpg\" width=\"600\" height=\"399\" alt=\"Blue sign on white wall, with  — All things arise, exist, and expire — written in Thai above and English below in white text. The bottom half of the frame is full of fake flowers, mostly pink, yellow and purple orchids.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/105040/2025/3d386328fc.jpg\" width=\"600\" height=\"399\" alt=\"Blue sign on white wall, with  — All things arise, exist, and expire — written in Thai above and English below in white text. The bottom half of the frame is full of fake flowers, mostly pink, yellow and purple orchids.\">\n",
 				"date_published": "2025-03-11T22:14:36+00:00",
 				"url": "https://blog.oliverholms.com/2025/03/11/221436.html",
 				"tags": ["Photography"]
@@ -113,7 +131,7 @@
 				"id": "http://oliverholms.micro.blog/2025/02/12/230820.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/adbb41deec.jpg\" width=\"900\" height=\"600\" alt=\"Crude painting of four sun flowers on a white background painted onto the side of a delapidated telecom box in the bleak scrubland beside a carpark\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/105040/2025/adbb41deec.jpg\" width=\"900\" height=\"600\" alt=\"Crude painting of four sun flowers on a white background painted onto the side of a delapidated telecom box in the bleak scrubland beside a carpark\">\n",
 				"date_published": "2025-02-12T23:08:20+00:00",
 				"url": "https://blog.oliverholms.com/2025/02/12/230820.html",
 				"tags": ["Photography"]
