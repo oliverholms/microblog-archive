@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2025/04/30/no-matter-what-your-age.html",
+				
+				"content_html": "<blockquote>\n<p>[&hellip;] no matter what your age is, shoot your world! Capture what you see that other don&rsquo;t or can&rsquo;t. <br>\n—<a href=\"https://blakeandrews.blogspot.com/\">Blake Andrews</a></p>\n</blockquote>\n<p>From his excellent <a href=\"https://blakeandrews.blogspot.com/2025/04/q-with-sebastien-boncy.html\">interview</a> with  <a href=\"https://www.instagram.com/tiboncy/\">Sebastien Boncy</a></p>\n",
+				"content_text": "> [...] no matter what your age is, shoot your world! Capture what you see that other don't or can't.    \r\n> —[Blake Andrews](https://blakeandrews.blogspot.com/)\r\n\r\nFrom his excellent [interview](https://blakeandrews.blogspot.com/2025/04/q-with-sebastien-boncy.html) with  [Sebastien Boncy](https://www.instagram.com/tiboncy/)\r\n",
+				"date_published": "2025-04-30T11:08:03+01:00",
+				"url": "https://blog.oliverholms.com/2025/04/30/no-matter-what-your-age.html"
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2025/04/23/the-real-voyage-of-discovery.html",
 				
-				"content_html": "<blockquote>\n<p>The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.<br>\n—Marcel Proust</p>\n</blockquote>\n",
-				"content_text": "> The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.  \n> —Marcel Proust\n",
+				"content_html": "<blockquote>\n<p>The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.  <br>\n—Marcel Proust</p>\n</blockquote>\n",
+				"content_text": "> The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.     \n> —Marcel Proust\n",
 				"date_published": "2025-04-23T23:50:40+01:00",
 				"url": "https://blog.oliverholms.com/2025/04/23/the-real-voyage-of-discovery.html"
 			},
