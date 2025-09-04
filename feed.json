@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://oliverholms.micro.blog/2025/09/04/space-is-the-breath-of.html",
+				
+				"content_html": "<blockquote>\n<p>Space is the breath of art.\nFrank Lloyd Wright</p>\n</blockquote>\n<p>Via a great <a href=\"https://pod.link/1249834293/episode/YjQ0ODc1Y2EtNjBjYS0xMWYwLTliZjUtMWI2YTc1MzdkZTZi?view=apps&amp;sort=popularity\">Tape Notes interview</a> with Barry Can&rsquo;t Swim on his new album <em>Loner</em>. I especially enjoyed hearing about how despite having two studios (home &amp; out), he still makes the bulk of his music on the sofa with his laptop because he prioritises directness and speed of execution. Likewise, he barely uses the hardware he owns, so that he doesn&rsquo;t introduce friction or lose flow by stepping away from the DAW. Other cool things: using sampled drum loops to get started quickly and then rebuilding them with your own (often foley) sounds, drops and fake drops, processing the main vocal sample to make pads, not getting locked into how you start tracks by using different elements as a base, and as alluded to by the quote above: always looking at what you can remove.</p>\n",
+				"content_text": "> Space is the breath of art. \n> Frank Lloyd Wright\n\nVia a great [Tape Notes interview](https://pod.link/1249834293/episode/YjQ0ODc1Y2EtNjBjYS0xMWYwLTliZjUtMWI2YTc1MzdkZTZi?view=apps&sort=popularity) with Barry Can't Swim on his new album _Loner_. I especially enjoyed hearing about how despite having two studios (home & out), he still makes the bulk of his music on the sofa with his laptop because he prioritises directness and speed of execution. Likewise, he barely uses the hardware he owns, so that he doesn't introduce friction or lose flow by stepping away from the DAW. Other cool things: using sampled drum loops to get started quickly and then rebuilding them with your own (often foley) sounds, drops and fake drops, processing the main vocal sample to make pads, not getting locked into how you start tracks by using different elements as a base, and as alluded to by the quote above: always looking at what you can remove. \n\n",
+				"date_published": "2025-09-04T13:24:30+02:00",
+				"url": "https://blog.oliverholms.com/2025/09/04/space-is-the-breath-of.html"
+			},
+			{
 				"id": "http://oliverholms.micro.blog/2025/08/31/154121.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/oliver-holms-oliverholms.jpg\" width=\"600\" height=\"400\" alt=\"A single overhead street light strung between two buildings casts a pool of warm light on the corner of a Venetian Square at night. There is a closed shop with an awning on the left. The window is illuminated showing rows of wine bottles on shelves. There is a warm light from behind a first floor window on the building to the right of the corner too. \">\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Venice at night, August 2025</p>\n",
+				"content_text": "<img src=\"uploads/2025/oliver-holms-oliverholms.jpg\" width=\"600\" height=\"400\" alt=\"A single overhead street light strung between two buildings casts a pool of warm light on the corner of a Venetian Square at night. There is a closed shop with an awning on the left. The window is illuminated showing rows of wine bottles on shelves. There is a warm light from behind a first floor window on the building to the right of the corner too.\">\n\nVenice at night, August 2025\n",
 				"date_published": "2025-08-31T15:41:21+02:00",
 				"url": "https://blog.oliverholms.com/2025/08/31/154121.html",
 				"tags": ["Photography"]
@@ -55,7 +63,7 @@
 				"id": "http://oliverholms.micro.blog/2025/06/09/222003.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/oliverholms-griiir0023041.jpg\" width=\"600\" height=\"399\" alt=\"Pink flowers between two black metal gates.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/105040/2025/oliverholms-griiir0023041.jpg\" width=\"600\" height=\"399\" alt=\"Pink flowers between two black metal gates.\">\n",
 				"date_published": "2025-06-09T23:20:03+02:00",
 				"url": "https://blog.oliverholms.com/2025/06/09/222003.html",
 				"tags": ["Photography"]
